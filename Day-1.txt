@@ -1,0 +1,10 @@
+Day 1
+Revisiting the Basics of C++ 🚀
+Today marks the first step in my journey of mastering C++ for Competitive Programming and Data Structures & Algorithms! 🔥
+I spent the day revisiting the fundamentals:
+✅ Data Types & Variables
+✅ Conditional Statements (if-else, switch)
+✅ Loops (for, while, do-while)
+✅ Functions & Scope
+✅ Arrays & Basic Input/Output
+It’s amazing how revisiting the basics with a fresh perspective builds a strong foundation for more advanced problem-solving! Looking forward to diving deeper into algorithms and optimization.
