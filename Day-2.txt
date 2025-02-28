@@ -3,3 +3,6 @@ Day-2 !!
 Recently, I’ve been diving deep into Time Complexity and Space Complexity, understanding how efficient different algorithms can be. It’s fascinating to see how small optimizations can make a huge difference in execution time!
 Alongside that, I’ve been working on pattern-solving using loops, sharpening my logic and implementation skills. From simple triangles to complex pyramids, every pattern teaches something new about iteration and nested loops.
 Competitive Programming is a marathon, not a sprint, and I’m excited to keep learning and improving! 💡💻
+
+Here's the link to check my progress:
+https://www.naukri.com/code360/profile/744b8eb0-d9d9-4bc7-9961-041bd85539a2
